@@ -1,19 +1,13 @@
 author:
-  name: Dasein
-  role: PhD in Philosophy
-  bio:  Known for contributions to phenomenology, hermeneutics, and existentialism.
-  location: Munich, Germany
+  name: Cam Wallace
+  role: Longevity Biology Ops & Finance
+  bio:  Lorem Ipsum
+  location: Cambridge, UK
 
 social:
-  - id: "x"
-    label: "X"
-    href: "#_"
-  - id: "github"
-    label: "GitHub"
-    href: "https://github.com/roicort"
   - id: "linkedin"
     label: "Linkedin"
-    href: "#_"
+    href: "https://www.linkedin.com/in/cameronjameswallace/"
   - id: "email"
     label: "Email"
-    href: "mailto:"
+    href: "mailto:camcoenzyme@gmail.com"
